@@ -9,5 +9,5 @@ public class MobileServiceManagementDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MobileServiceManagementDemoApplication.class, args);
 	}
-
+	// comments
 }
