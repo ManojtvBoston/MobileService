@@ -92,7 +92,9 @@ public class MobileController {
 			 
 			 mobileService.deleteMobile(id);
 			 return new ModelAndView("redirect:/mobile/list");
-		  
+
+
+
 	 }
 	
 	
